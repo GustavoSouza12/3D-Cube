@@ -1,3 +1,0 @@
-https://discoverthreejs.com/book/first-steps/
-https://github.com/oframe/ogl
-https://bashooka.com/coding/25-beginner-friendly-three-js-tutorials-examples/
